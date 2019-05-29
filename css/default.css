@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+html {
+	font-family: 'Raleway', sans-serif;
+}
+
+header ul {
+	display: flex;
+	flex-flow: row nowrap;
+	
+	list-style: none;
+}
+
+header ul li {
+	margin: 10px 20px;
+}
