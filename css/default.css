@@ -14,3 +14,21 @@ header ul {
 header ul li {
 	margin: 10px 20px;
 }
+
+body {
+	background-color: aqua
+}
+
+header {
+	background-color: white
+}
+
+#relax {
+	font-size: 10pc
+}
+
+
+
+#come {
+	font-size: 8pc
+}
