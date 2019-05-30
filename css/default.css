@@ -23,12 +23,27 @@ header {
 	background-color: white
 }
 
+footer {
+	color: white
+}
+
+footer {
+	background-color: black
+}
+
 #relax {
 	font-size: 10pc
 }
 
-
+#relax {
+	line-height: 10pt
+}
 
 #come {
-	font-size: 8pc
+	font-size: 35px
 }
+
+#come {
+	line-height: 5px
+}
+
